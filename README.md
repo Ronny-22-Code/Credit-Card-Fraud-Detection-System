@@ -49,6 +49,8 @@ The aim of this project is to build a classifier that can detect credit card fra
 
 ![Screenshot (193) (2)](https://user-images.githubusercontent.com/46643368/85225206-1c33cf80-b3ed-11ea-8883-47447c132050.png)
 
+## Output
+
 ![Output-3](https://user-images.githubusercontent.com/46643368/85225216-2655ce00-b3ed-11ea-921c-ca142ced44ff.png)
 
 
